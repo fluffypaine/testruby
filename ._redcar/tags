@@ -1,0 +1,13 @@
+1347936102
+Application	C:/Sites/railsinstealler_demo/config/application.rb	  class Application 
+ApplicationController	C:/Sites/railsinstealler_demo/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/Sites/railsinstealler_demo/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/Sites/railsinstealler_demo/test/performance/browsing_test.rb	class BrowsingTest 
+RailsinsteallerDemo	C:/Sites/railsinstealler_demo/config/application.rb	module RailsinsteallerDemo
+TestCase	C:/Sites/railsinstealler_demo/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	C:/Sites/railsinstealler_demo/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	C:/Sites/railsinstealler_demo/test/functional/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	C:/Sites/railsinstealler_demo/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	C:/Sites/railsinstealler_demo/test/unit/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+index	C:/Sites/railsinstealler_demo/app/controllers/welcome_controller.rb	  def index
+test_homepage	C:/Sites/railsinstealler_demo/test/performance/browsing_test.rb	  def test_homepage
